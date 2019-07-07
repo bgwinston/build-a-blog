@@ -1,0 +1,18 @@
+body {
+    background-color: #eec0c6;
+    background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);    
+}
+
+h1 {
+    font-style: oblique;
+    font-size: 50px;
+    font-weight: lighter;
+    text-decoration: underline overline;
+}
+
+label {
+    font-style: oblique;
+    font-size: px;
+    font-weight: lighter;
+}
+
